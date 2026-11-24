@@ -1,0 +1,12 @@
+name="DINESH"
+age=19
+college="VIT"
+fee=45000
+course="B.Tech"
+print(type(name))
+print(type(age))
+print(type(college))
+print(type(fee))
+print(type(course))
+a=10
+float(a)
